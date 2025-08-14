@@ -5,7 +5,7 @@ pandas
 requests
 groq
 python-dotenv
-chromadb     
+chromadb[duckdb]    
 langchain  
 Numpy
 langchain-groq
