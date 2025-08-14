@@ -1,0 +1,10 @@
+streamlit
+selenium
+beautifulsoup4
+pandas
+requests
+groq
+python-dotenv
+chromadb     
+langchain  
+Numpy
