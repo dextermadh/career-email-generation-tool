@@ -8,3 +8,4 @@ python-dotenv
 chromadb     
 langchain  
 Numpy
+langchain-groq
