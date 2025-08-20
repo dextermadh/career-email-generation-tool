@@ -25,3 +25,7 @@ class Repos:
             query_texts=skills,
             n_results=5
         ).get('metadatas', [])
+        
+    def delete_collection(self): 
+        self.chroma_client.delete_collection(name="repos")
+

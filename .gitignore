@@ -1,2 +1,5 @@
 .env
 app/.env
+/vectorstore
+*.bin
+*.bin
