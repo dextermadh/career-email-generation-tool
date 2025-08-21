@@ -6,8 +6,6 @@ from repos import Repos
 from scrape_repos import ScrapeRepos
 from scrape_CV import extract_text_from_pdf
 import urllib.parse
-import win32com.client
-import webbrowser
 
 def streamlit_app(llm, clean_text):     
     st.title('📧 Career Email Generation Tool')
